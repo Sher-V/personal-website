@@ -1,0 +1,15 @@
+{
+  "title": "Vadim Sheremetov & Software Engineer",
+  "description": "Hello, I am a software engineer based in Moscow. My core competency lies in architecting and developing of front-end applications using the tools at the cutting edge of technology such as HTML5, CSS, Javascript, ReactJS, Redux, Webpack, Git, NodeJS(on Backend). I always try to produce well-written, modular and maintainable code. I’m able to work under tightest deadlines delivering best product quality possible.",
+  "portfolio.btn.title": "Learn more",
+  "birthday.title": "Birthday:",
+  "age.title": "Age:",
+  "email.title": "Email:",
+  "study.title": "Study:",
+  "freelance.title": "Freelance:",
+  "birthday": "09.10.1999",
+  "age": "21",
+  "email": "shervdev@gmail.com",
+  "study": "BMSTU",
+  "freelance": "available"
+}

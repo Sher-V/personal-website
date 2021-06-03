@@ -1,0 +1,10 @@
+{
+  "topic.title": "Портфолио",
+  "title": "Выполненные работы",
+  "filters.all": "Все",
+  "filters.commercial.projects": "Фриланс проекты",
+  "filters.pet.projects": "Домашние проекты",
+  "project.title": "Название: ",
+  "project.tech": "Используемые технологии",
+  "project.description": "Описание проекта"
+}

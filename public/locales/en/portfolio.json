@@ -1,0 +1,10 @@
+{
+  "topic.title": "Portfolio",
+  "title": "Completed work",
+  "filters.all": "All",
+  "filters.commercial.projects": "Freelance projects",
+  "filters.pet.projects": "Pet projects",
+  "project.title": "Title: ",
+  "project.tech": "Technologies used",
+  "project.description": "Project description"
+}
