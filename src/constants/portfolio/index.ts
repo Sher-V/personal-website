@@ -72,7 +72,7 @@ export const portfolioWorks = {
       description:
         "Приложение для компаний для предоставления физических услуг с использованием очереди. Каждый бизнес имеет свой уникальный QR-код по которому клиент может попасть в очередь. Клиенты могут видеть оставшееся время в лайве. Когда бизнесс отправляет приглашение - клиент получает смс-уведомление, что его очередь пришла.",
     },
-    technologies: ["React JS", "Firebase", "Google Cloud", "Twilio"],
+    technologies: ["React JS", "Firebase", "Google Cloud", "Twilio", "Material UI"],
     images: [
       "/images/queue/1.png",
       "/images/queue/2.png",
