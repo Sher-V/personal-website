@@ -37,4 +37,27 @@ export const portfolioWorks = {
     images: ["/images/blog/1.png", "/images/blog/2.png", "/images/blog/3.png"],
     type: ProjectTypes.FREELANCE,
   },
+  "3": {
+    id: "3",
+    en: {
+      title: "Organizational Chart",
+      description:
+        "Application for companies to view their organizational structure, modify and export using different formats.",
+    },
+    ru: {
+      title: "Организационный чарт",
+      description:
+        "Приложение для компаний, где можно просматривать структуру их компании, модифицировать и экспортировать в различных форматах.",
+    },
+    technologies: ["React JS", "Airtable", "Serverless"],
+    images: [
+      "/images/chart/1.png",
+      "/images/chart/2.png",
+      "/images/chart/3.png",
+      "/images/chart/4.png",
+      "/images/chart/5.png",
+      "/images/chart/6.png",
+    ],
+    type: ProjectTypes.FREELANCE,
+  },
 };

@@ -11,20 +11,20 @@ const PortfolioCard: React.FC<Props> = ({ id, src }) => {
   const handleClick = () => openModal(id);
 
   return (
-    <div
-      className={
-        "aspect-w-3 aspect-h-2 md:aspect-w-8 md:aspect-h-2 flex-1 cursor-pointer group transform hover:scale-105 lg:hover:scale-110 duration-300 delay-200"
-      }
-      onClick={handleClick}
-    >
-      <Image
-        src={src}
-        layout={"fill"}
-        objectFit={"cover"}
-        objectPosition={"top"}
-        alt={"Portfolio card"}
-      />
-    </div>
+      <div
+          className={
+            "aspect-w-3 aspect-h-2 md:aspect-w-8 md:aspect-h-2 md:w-1/2-18 cursor-pointer group transform hover:scale-105 lg:hover:scale-110 duration-300 delay-200"
+          }
+          onClick={handleClick}
+      >
+        <Image
+            src={src}
+            layout={"fill"}
+            objectFit={"cover"}
+            objectPosition={"top"}
+            alt={"Portfolio card"}
+        />
+      </div>
   );
 };
 
