@@ -68,7 +68,7 @@ export const portfolioWorks = {
         "Application for companies to provide physical services for clients using a live queue. Businesses have their own QR-code which can be used by a client to enter the line. Clients can see the estimated waiting time changing in live. Once a client gets invited he receives sms notification that it's his turn.",
     },
     ru: {
-      title: "Приложение для управления очередями",
+      title: "Приложение для управления очередями клиентов",
       description:
         "Приложение для компаний для предоставления физических услуг с использованием очереди. Каждый бизнес имеет свой уникальный QR-код по которому клиент может попасть в очередь. Клиенты могут видеть оставшееся время в лайве. Когда бизнесс отправляет приглашение - клиент получает смс-уведомление, что его очередь пришла.",
     },
