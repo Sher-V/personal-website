@@ -14,9 +14,14 @@ export const technologies = {
     "Mobile First Thinking",
   ],
   experience: [
-    "NodeJS (express/nest)",
-    "MongoDB/PostgreSQL",
+    "NodeJS (ExpressJS/NestJS)",
+    "MongoDB",
+    "PostgreSQL",
     "Firebase",
-    "GraphQL (Apollo server/client)",
+    "AWS",
+    "GraphQL",
+    "Cypress",
+    "Java",
+    "Python",
   ],
 };
