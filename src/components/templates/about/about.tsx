@@ -42,14 +42,12 @@ const About: React.FC = () => {
             <li>{t("age.title")}</li>
             <li>{t("email.title")}</li>
             <li>{t("study.title")}</li>
-            <li>{t("freelance.title")}</li>
           </ul>
           <ul className={"ml-20"}>
             <li>{t("birthday")}</li>
             <li>{t("age")}</li>
             <li>{t("email")}</li>
             <li>{t("study")}</li>
-            <li>{t("freelance")}</li>
           </ul>
         </div>
       </div>

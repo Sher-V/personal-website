@@ -6,10 +6,8 @@
   "age.title": "Age:",
   "email.title": "Email:",
   "study.title": "Study:",
-  "freelance.title": "Freelance:",
   "birthday": "09.10.1999",
   "age": "21",
   "email": "shervdev@gmail.com",
-  "study": "BMSTU",
-  "freelance": "available"
+  "study": "BMSTU"
 }
