@@ -3,7 +3,7 @@ import React from "react";
 interface Props {
   position: string;
   company: string;
-  description: string;
+  description: string[];
 }
 
 const WorkExperienceCard: React.FC<Props> = ({
@@ -14,7 +14,13 @@ const WorkExperienceCard: React.FC<Props> = ({
   <div>
     <div className={"text-black font-medium text-secondary"}>{position}</div>
     <div className={"text-black font-medium text-md mt-10"}>{company}</div>
-    <div className={"text-secondary font-secondary"}>{description}</div>
+    <div className={"text-secondary font-secondary"}>
+      <ul className={"list-disc"}>
+        {description.map((point, i) => (
+          <li key={i}>{point}</li>
+        ))}
+      </ul>
+    </div>
   </div>
 );
 
