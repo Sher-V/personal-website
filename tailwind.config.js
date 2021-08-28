@@ -38,6 +38,9 @@ module.exports = {
           "100%": { transform: "scale(0)" },
         },
       },
+      spacing: {
+        12: "12px",
+      },
       gap: {
         5: "5px",
         12: "12px",

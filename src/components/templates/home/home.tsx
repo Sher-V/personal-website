@@ -34,7 +34,7 @@ const Home: React.FC<Props> = () => {
             {t("description")}
           </p>
           <div className={"mt-8 text-center xl:text-left"}>
-            <ul className={"flex justify-center gap-12 xl:justify-start"}>
+            <ul className={"flex justify-center space-x-12 xl:justify-start"}>
               <li className={"inline-block"}>
                 <a target={"_blank"} href="https://github.com/Sher-V">
                   <Icon icon={ICONS_ENUM.GITHUB} />
